@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-a2y5vd.plugshub.ge/sitemap.xml
